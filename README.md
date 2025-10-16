@@ -6,11 +6,11 @@
 ---
 
 
-- 🔭 I’m currently working on a Job Board project with a few other team members.  We're all Code:You graduates.  The purpose of this project is to add to our portfolio to showcase our skills.  I'm responsible for the filter logic and right now I'm learning how to make sliders for the pay range portion of the search filter.  [Check it out](https://github.com/dmorton714/CodeYouJobBoard)
+- 🔭 I’m currently working on a Job Board project with a few other team members.  We're all Code:You graduates.  The purpose of this project is to add to our portfolio to showcase our skills.  I'm responsible for the filter logic and made sliders for the pay range portion of the search filter.  [Check it out](https://github.com/dmorton714/CodeYouJobBoard)
 
 - 🔭 I'm also currently working on a Google Maps API for a HOA I work for.  They have just under 200 members and I created a membership database through MailPoet in Wordpress.  I'd like to develop an interactive map of their neighborhood when the mouse hovers a property lot, a blurb would appear to show information of the homeowner and the property. Unfortauntely, this would be for members eyes only.  I plan to make a copy and do a smaller public neighbhorhood elsewhere such as a shopping mall just to demonstrate my skills.
 
-- 💻 I need to clean up my first capstone and make it work more efficiently and blow recruiter's minds.  Priorities! 
+- 💻 My very first coding project is called The Brick Vault.  It calls an API from Rebrickable.com.  First it downloads data from the API of the lego parts of the sets the user entered.  The list of parts is saved to the user's database.  Then API is called again to compare the user's list of parts with other sets.  Once matched, the user will have a list of other sets they can build with their existing Lego parts. Programming language is C#. [Check it out](https://github.com/JenaLRW/TheBrickVault)
 
 - 🌱 I’m currently learning Python on my own pace. I learned C# first and I'm glad I did.  Makes it so much easier to learn other languages. I learned JavaScript and TypeScript immediately after completing C# classes.
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: jenale@gmail.com 
 
-- ⚡ Fun fact: I love to build of all sizes.  I have built viruses in academic and research laboratories using RNA.  I built my current home and horse barn.  I have built a few playsets and decks. I helped my husband rebuild engines. And now I'm building stuff on the world wide web!  I love it all.
+- ⚡ Fun fact: I love to build of all sizes.  I have built viruses in academic and research laboratories using mRNA.  I built my current home and horse barn.  I have built a few playsets and decks. I helped my husband rebuild engines. And now I'm building stuff on the world wide web!  I love it all.
 
 - 🏕️ Hobbies: Horseback riding.  I have a off track Thoroughbred named Scott. Boating and camping with my family. Spending time with my girlfriends.
 
